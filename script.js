@@ -50,7 +50,7 @@ const quizQuestions = [
         question:"Which country won the FIFA World Cup in 2018?",
         options:["Brazil","Germany","France","argentina"],
         correctAnswer:"France"
-    },
+    }
 
   ];
   

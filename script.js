@@ -22,7 +22,36 @@ const quizQuestions = [
     question: "Who wrote the famous play Romeo and Juliet?",
     options: ["William Shakespeare"," George Orwell","Jane Austen","Charles Dickens"],
     correctAnswer: "William Shakespeare "
-    }
+    },
+    { 
+        question:"Who is the CEO of Tesla?",
+        options:["Mark Zuckerberg","Tim Cook","Jeff Bezos"," Elon Musk"],
+        correctAnswer:"Elon Musk"
+    },
+    { 
+        question:"Which planet is known as the Red Planet",
+        options:[" Saturn ","Mars","Neptune","Uranus"],
+        correctAnswer:"Mars"
+    },
+
+    { 
+        question:" What is the largest ocean in the world?",
+        options:["Atlantic Ocean","Indian Ocean","Arctic Ocean","Pacific Ocean"],
+        correctAnswer:"Pacific Ocean"
+    },
+
+    { 
+        question:" What is the capital city of Australia?",
+        options:["Sydney","Canberra","Melbourne"," Perth"],
+        correctAnswer:"Canberra"
+    },
+
+    { 
+        question:"Which country won the FIFA World Cup in 2018?",
+        options:["Brazil","Germany","France","argentina"],
+        correctAnswer:"France"
+    },
+
   ];
   
   // Variables to track quiz state

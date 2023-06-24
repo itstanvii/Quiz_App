@@ -1,5 +1,5 @@
 body {
-    background-color:#dc4949;
+    background-color:skyblue;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: center;
@@ -37,7 +37,7 @@ body {
   button {
     height: 40px;
     font-size: 16px;
-    background-color: crimson;
+    background-color: blue;
     border: none;
     border-radius: 5px;
     cursor: pointer;
